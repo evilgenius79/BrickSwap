@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+jobs/
+settings.json
+*.mp4
+yolo11n-seg.pt
+.DS_Store
+Thumbs.db
